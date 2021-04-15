@@ -1,4 +1,7 @@
 #!/bin/bash
+#Autor: JorgeGongora
+#Date: 14/04/2021
+#Description: This script is intended to create multiple users
 for user in {1..101}
 do
     user="user${user}"
