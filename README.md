@@ -1,4 +1,6 @@
-# Collection of Bash Scripts for Linux Server Administration.
+# Collection of Bash Scripts for Linux Server Administration
+
+![](bash.png)
 
 ### Autor : Jorge Gongora [jorge.gongora2610@gmail.com](jorge.gongora2610@gmail.com)
 ### Profile : [https://github.com/JorgeGongoraR](https://github.com/JorgeGongoraR)
