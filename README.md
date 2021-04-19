@@ -11,3 +11,4 @@ Scripts availables:
 - [User creation](./user-creation.sh): This script is intended to create multiple users
 - [Find file](./findfile.sh): This file is intended to find a .sh file, if that file is already created will ask if you like to overwrite or to create a new one
 - [Checking files](./checkingfiles): This script evaluates if at the moment you run it you pass 2 files name as parameters
+- [Check user group](./check_user_group.sh): This script should output all of the corresponding groups that the user belongs to and print each group in an individual line.
